@@ -33,6 +33,12 @@ public class A {
             System.out.println("Soma1 = " + soma1);
             System.out.println("Soma2 = " + soma2);
         }
+        
+        public void ca12(){
+        
+        
+            System.out.println("Teste CAWads");
+        }
 
     }
 
